@@ -68,3 +68,7 @@ If you are using Windows 11, then the Windows Terminal will come pre-installed, 
 From the start menu, search for the Microsoft Store and launch it. Now search for the Windows Terminal, which looks like this:
 ![terminal](/images/screenshot-terminal.png)
 then select it, and click `install`.
+
+# Next steps
+
+Now you need to setup the WSL2 for development - see [Setting up Ubuntu for Development](</setup/Setting up Ubuntu for Development.md>) for next steps.
