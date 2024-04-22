@@ -51,7 +51,7 @@ The following packages will likely be required when developing on Ubuntu:
 - python3-pip - the Python package manager (Python comes pre-installed on Linux).
 - python3-venv: for creating Python virtual environments - this is packaged separately on Ubuntu but may already be included on other distributions.
 - python3-sphinx: documentation generation tool for Python.
-- podman: drop-in replacement for Docker.
+- podman: drop-in replacement for Docker, for working with containers.
 
 ```shell
 sudo apt install git vim python3-pip python3-venv python3-sphinx podman
