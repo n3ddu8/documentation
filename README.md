@@ -6,3 +6,4 @@ Documentation I commonly need for engagements.
 - [Setting up Ubuntu for Development](</setup/Setting up Ubuntu for Development.md>)
 - [Spinning up a SQL Server Container](</setup/Spinning up a SQL Server Container.md>)
 - [Setting up SSH Keys](</setup/Setting up SSH Keys.md>)
+- [Adding SSH Keys to GitHub](</setup/Adding SSH Keys to GitHub.md>)
