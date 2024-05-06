@@ -39,7 +39,7 @@ To get started, install the following:
 - wget & curl: for downloading files from remote locations.
 
 ```shell
-sudo apt install build-essentials software-properties-common ca-certificates wget curl
+sudo apt install build-essential software-properties-common ca-certificates wget curl
 ```
 
 # Basic development packages
